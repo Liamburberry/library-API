@@ -1,0 +1,84 @@
+{
+  "books": [
+    {
+      "isbn": "978-0452284234",
+      "title": "1984",
+      "author": "George Orwell",
+      "publishedYear": 1949,
+      "totalCopies": 3,
+      "description": "A dystopian novel about totalitarian control in a future society where Big Brother watches all citizens and truth is constantly rewritten."
+    },
+    {
+      "isbn": "978-0061120084",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishedYear": 1960,
+      "totalCopies": 2,
+      "description": "A gripping story about racism and injustice in the American South, seen through the eyes of young Scout Finch."
+    },
+    {
+      "isbn": "978-0743273565",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishedYear": 1925,
+      "totalCopies": 4,
+      "description": "A classic portrayal of the American Dream during the Jazz Age, centered around the mysterious millionaire Jay Gatsby."
+    },
+    {
+      "isbn": "978-0439708180",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "publishedYear": 1997,
+      "totalCopies": 5,
+      "description": "The first book about the wizard Harry Potter who discovers his magical heritage and begins attending Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "isbn": "978-0316769174",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publishedYear": 1951,
+      "totalCopies": 2,
+      "description": "A teenage classic following Holden Caulfield through a few turbulent days in New York after being expelled from prep school."
+    },
+    {
+      "isbn": "978-0141439518",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishedYear": 1813,
+      "totalCopies": 3,
+      "description": "A timeless romance about Elizabeth Bennet and Mr. Darcy exploring themes of class, pride, and prejudice in 19th century England."
+    },
+    {
+      "isbn": "978-0544003415",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publishedYear": 1954,
+      "totalCopies": 1,
+      "description": "The epic fantasy adventure about the hobbit Frodo who must destroy the One Ring to save Middle-earth from the forces of evil."
+    },
+    {
+      "isbn": "978-0132350884",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "publishedYear": 2008,
+      "totalCopies": 2,
+      "description": "A practical handbook for programmers on writing readable, maintainable, and elegant code using proven techniques and principles."
+    },
+    {
+      "isbn": "978-0201633610",
+      "title": "Design Patterns",
+      "author": "Gang of Four",
+      "publishedYear": 1994,
+      "totalCopies": 1,
+      "description": "The groundbreaking book introducing 23 classic design patterns for object-oriented programming and software development."
+    },
+    {
+      "isbn": "978-0135957059",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas & Andrew Hunt",
+      "publishedYear": 1999,
+      "totalCopies": 3,
+      "description": "A comprehensive guide for developers covering everything from coding philosophy to practical tools for becoming a more effective programmer."
+    }
+  ]
+}
