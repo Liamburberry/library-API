@@ -31,3 +31,4 @@ Use:
     - Return book: curl -X POST "http://localhost:8000/v1/rentals/{rental_id}/return?user_id={user_id}"
     - List users loaned books: curl -X GET "http://localhost:8000/v1/users/{user_id}/books"
     - Display book details: "http://localhost:8000/v1/books/{book_id}"
+
